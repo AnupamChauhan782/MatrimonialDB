@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer_08012024\DataAccessLayer_08012024.csproj" />
+    <ProjectReference Include="..\MatriMonialGlobalExceptionHandling_03022024\MatriMonialGlobalExceptionHandling_03022024.csproj" />
+  </ItemGroup>
+
+</Project>
