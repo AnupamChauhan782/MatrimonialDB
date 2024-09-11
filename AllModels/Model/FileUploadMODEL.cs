@@ -16,8 +16,12 @@ namespace AllModels.Model
         public string FileUpLoadOne { get; set; }
         public string FileUploadTwo { get; set; }
         public string FileUploadThree { get; set; }
-        
-        
+        [ForeignKey("ProfileID")]
+        public Guid ProfileID { get; set; }
+        public NewRegistrationModel? newRegistrationModel { get; set; }
+
+
+
     }
    
 }

@@ -77,7 +77,7 @@ namespace MatriMonialAppProjectSecond_08012024.Controllers
         public async Task<IActionResult> GetByIdData(Guid id)
         {
             var res=await _districtMaster.GetNewDistrictMasterById(id);
-            var result=_mapp.Map<DistrictMasterDto>(res);
+            var result=_mapp.Map<List<DistrictMasterDto>>(res);
             return Ok(result);
         }
     }

@@ -11,7 +11,7 @@ namespace BusinessLayer_08012024.IServices
     {
         Task<List<DistrictMaster>> GetAllDistrictMasterData();
         Task  AddNewDistrictMasterData(DistrictMaster districtMaster);
-        Task<DistrictMaster> GetNewDistrictMasterById(Guid id);
+        Task<List<DistrictMaster>> GetNewDistrictMasterById(Guid id);
         Task<DistrictMaster> DeletedDataById(Guid id);
         Task<DistrictMaster>  UpdateDataOfDistrict(DistrictMaster districtMaster);
     }

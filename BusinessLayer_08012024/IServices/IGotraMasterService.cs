@@ -11,7 +11,7 @@ namespace BusinessLayer_08012024.IServices
     {
         Task<List<GotraMaster>> GetGotraMasterData();
         Task AddNewGotraMasterData(GotraMaster gotraMaster);
-        Task<GotraMaster> GetGotraMasterById(Guid id);
+        Task<List<GotraMaster>> GetGotraMasterById(Guid id);
         Task<GotraMaster>  DeleteData(Guid id);
         Task<GotraMaster>  UpadateData(GotraMaster gotraMaster);
     }

@@ -11,10 +11,12 @@ namespace BusinessLayer_08012024.IServices
     public interface INewRegistrationService
     {
         Task<List<NewRegistrationModel>> NewRegistrationData();
-        Task AddNewRegistrationData(NewRegistrationModel newRegistration);
+        Task<NewRegistrationModel> AddNewRegistrationData(NewRegistrationModel newRegistration);
 
         Task<NewRegistrationModel>  DeleteNewRegistrationData(Guid id);
 
         Task<NewRegistrationModel> UpdateNewRegistration(NewRegistrationModel newRegistration);
+
+        Task<Object> GetAllNewREgistration();
     }
 }

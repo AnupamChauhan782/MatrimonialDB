@@ -68,6 +68,16 @@ namespace BusinessLayer_08012024.Services
             }
         }
 
+        public async Task<List<StateMaster>> GetNewStateById(Guid id)
+        {
+           var res=await _connection.StateMasterTabb.Where(x=>x.CountryId==id).ToListAsync();
+            if(res == null)
+            {
+                throw new KeyNotFoundException("this id is not found");
+            }
+            return res;
+        }
+
         public async Task UpdateNewStateMasterData(StateMaster newStateMaster)
         {
             var res=await _connection.StateMasterTabb.FirstOrDefaultAsync(x=>x.StateId==newStateMaster.StateId);

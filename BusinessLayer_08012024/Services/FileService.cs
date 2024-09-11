@@ -21,7 +21,7 @@ namespace BusinessLayer_08012024.Services
             this._connect = connection;
             this._mapper = mapper;
         }
-        public async Task AddFileUpLoad(IFormFile[] file)
+        public async Task AddFileUpLoad(IFormFile[] file, Guid profileId)
         {
             FileUploadDTO fileUploadDTO = new FileUploadDTO();
             if (file != null && file.Length > 0)
@@ -29,6 +29,7 @@ namespace BusinessLayer_08012024.Services
 
                 foreach (var files in file)
                 {
+                    fileUploadDTO.ProfileID = profileId;    
                     var fileName = Guid.NewGuid().ToString() + Path.GetExtension(files.FileName);
                     var filePath = Path.Combine("Assets/Image", fileName);
                     using (var stream = new FileStream(filePath, FileMode.Create))
@@ -49,7 +50,7 @@ namespace BusinessLayer_08012024.Services
                     }
                 }
                 var map=_mapper.Map<FileUploadMODEL>(fileUploadDTO);    
-                await _connect.FileTabb.AddRangeAsync(map);
+                await _connect.ImageUploadTabb.AddRangeAsync(map);
                 await _connect.SaveChangesAsync();
 
 

@@ -187,9 +187,14 @@ namespace DataAccessLayer_08012024.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<Guid>("ProfileID")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("ImageId");
 
-                    b.ToTable("FileTabb");
+                    b.HasIndex("ProfileID");
+
+                    b.ToTable("ImageUploadTabb");
                 });
 
             modelBuilder.Entity("AllModels.Model.GotraMaster", b =>
@@ -238,8 +243,15 @@ namespace DataAccessLayer_08012024.Migrations
                     b.Property<int?>("Age")
                         .HasColumnType("int");
 
+                    b.Property<string>("Caste")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Complexion")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid>("CountryId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("CreatedBy")
                         .HasColumnType("nvarchar(max)");
@@ -247,17 +259,22 @@ namespace DataAccessLayer_08012024.Migrations
                     b.Property<DateTime>("CreatedOn")
                         .HasColumnType("datetime2");
 
+                    b.Property<Guid>("DistrictId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("EnqId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("GotraId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<float?>("Height")
                         .HasColumnType("real");
 
                     b.Property<string>("HomeLocation")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<Guid>("ImageId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("Location")
-                        .IsRequired()
+                    b.Property<string>("MaritalStatus")
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
@@ -267,14 +284,29 @@ namespace DataAccessLayer_08012024.Migrations
                     b.Property<DateTime>("ModifiedOn")
                         .HasColumnType("datetime2");
 
+                    b.Property<Guid>("ProfessionId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("QualificationId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<string>("Religion")
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
+                    b.Property<Guid>("StateId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("SubCasteId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("location")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("ProfileID");
 
-                    b.ToTable("NewRegistarTabb");
+                    b.ToTable("NewRegistarTabbColl");
                 });
 
             modelBuilder.Entity("AllModels.Model.ProfessionMaster", b =>
@@ -443,6 +475,17 @@ namespace DataAccessLayer_08012024.Migrations
                     b.Navigation("StateMasters");
                 });
 
+            modelBuilder.Entity("AllModels.Model.FileUploadMODEL", b =>
+                {
+                    b.HasOne("AllModels.Model.NewRegistrationModel", "newRegistrationModel")
+                        .WithMany("fileUpload")
+                        .HasForeignKey("ProfileID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("newRegistrationModel");
+                });
+
             modelBuilder.Entity("AllModels.Model.GotraMaster", b =>
                 {
                     b.HasOne("AllModels.Model.SubCasteMaster", "CasteMasters")
@@ -468,6 +511,11 @@ namespace DataAccessLayer_08012024.Migrations
             modelBuilder.Entity("AllModels.Model.CountryMaster", b =>
                 {
                     b.Navigation("StateMasters");
+                });
+
+            modelBuilder.Entity("AllModels.Model.NewRegistrationModel", b =>
+                {
+                    b.Navigation("fileUpload");
                 });
 
             modelBuilder.Entity("AllModels.Model.StateMaster", b =>

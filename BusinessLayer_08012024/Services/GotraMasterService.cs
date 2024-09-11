@@ -44,9 +44,9 @@ namespace BusinessLayer_08012024.Services
             return res;
         }
 
-        public async Task<GotraMaster> GetGotraMasterById(Guid id)
+        public async Task<List<GotraMaster>> GetGotraMasterById(Guid id)
         {
-           var res=await _connect.GotraMasterTabb.FirstOrDefaultAsync(x=>x.GotraId==id);
+           var res=await _connect.GotraMasterTabb.Where(x=>x.SubCasteId==id).ToListAsync();
             if( res == null)
             {
                 throw new KeyNotFoundException("not found");

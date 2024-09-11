@@ -13,5 +13,6 @@ namespace BusinessLayer_08012024.IServices
         Task  AddNewCountryMasterData(CountryMaster countryMaster);
         Task<CountryMaster> DeletedDataOfCountryMaster(Guid id);
         Task  UpDateDataOfCountryMaster(CountryMaster countryMaster);
+        Task<CountryMaster> GetCountryById(Guid id);
     }
 }

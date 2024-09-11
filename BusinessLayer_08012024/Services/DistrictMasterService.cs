@@ -67,9 +67,9 @@ namespace BusinessLayer_08012024.Services
             }
         }
 
-        public async Task<DistrictMaster> GetNewDistrictMasterById(Guid id)
+        public async Task<List<DistrictMaster>> GetNewDistrictMasterById(Guid id)
         {
-            var res=await _coonection.DistrictMasterTabb.FirstOrDefaultAsync(x=>x.DistrictId == id);
+            var res=await _coonection.DistrictMasterTabb.Where(x=>x.StateId==id).ToListAsync();
             if(res == null)
             {
                 throw new Exception("not found");
@@ -97,5 +97,7 @@ namespace BusinessLayer_08012024.Services
             return res;
 
         }
+
+      
     }
 }

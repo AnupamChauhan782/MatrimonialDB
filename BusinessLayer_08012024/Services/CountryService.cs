@@ -67,6 +67,11 @@ namespace BusinessLayer_08012024.Services
             }
         }
 
+        public Task<CountryMaster> GetCountryById(Guid id)
+        {
+            throw new System.NotImplementedException();
+        }
+
         public async Task UpDateDataOfCountryMaster(CountryMaster countryMaster)
         {
            var res=await _connect.CountryMasterTabb.FirstOrDefaultAsync(x=>x.CountryId==countryMaster.CountryId);

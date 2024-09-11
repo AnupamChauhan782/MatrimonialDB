@@ -1,0 +1,12 @@
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\bin\Release\net7.0\AllModels.deps.json
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\bin\Release\net7.0\AllModels.dll
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\bin\Release\net7.0\AllModels.pdb
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.csproj.AssemblyReference.cache
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.AssemblyInfoInputs.cache
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.AssemblyInfo.cs
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.csproj.CoreCompileInputs.cache
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.dll
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\refint\AllModels.dll
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\AllModels.pdb
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Release\net7.0\ref\AllModels.dll

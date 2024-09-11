@@ -34,6 +34,11 @@ namespace DataAccessLayer_08012024.DbConnection
               .WithMany(g => g.GotraMasters)
               .HasForeignKey(s => s.SubCasteId);
 
+            modelBuilder.Entity<FileUploadMODEL>()
+             .HasOne<NewRegistrationModel>(s => s.newRegistrationModel)
+             .WithMany(g => g.fileUpload)
+             .HasForeignKey(s => s.ProfileID);
+
         }
 
         public DbSet<CountryMaster> CountryMasterTabb { get; set; }
@@ -46,10 +51,10 @@ namespace DataAccessLayer_08012024.DbConnection
         public DbSet<ProfessionMaster> ProfessionTab { get; set; }
         public DbSet<QualificationMaster> QualificationTabb { get; set; }
 
-        public DbSet<FileUploadMODEL> FileTabb { get; set; }
+        public DbSet<FileUploadMODEL> ImageUploadTabb { get; set; }
 
         public DbSet<UserModel> UserTabb { get; set; }
-        public DbSet<NewRegistrationModel> NewRegistarTabb { get; set; }
+        public DbSet<NewRegistrationModel> NewRegistarTabbColl { get; set; }
 
 
 

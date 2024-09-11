@@ -10,6 +10,6 @@ namespace BusinessLayer_08012024.IServices
 {
     public interface IFileService
     {
-       Task AddFileUpLoad(IFormFile[] file);
+       Task AddFileUpLoad(IFormFile[] file,Guid proId);
     }
 }

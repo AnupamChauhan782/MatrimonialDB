@@ -13,5 +13,7 @@ namespace BusinessLayer_08012024.IServices
         Task  AddNewStateMasterData(StateMaster newStateMaster);
         Task UpdateNewStateMasterData(StateMaster newStateMaster);
         Task<StateMaster> DeleteNewStateMasterData(Guid id);
+
+        Task<List<StateMaster>> GetNewStateById(Guid id);
     }
 }

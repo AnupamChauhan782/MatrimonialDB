@@ -34,6 +34,24 @@ namespace MatriMonialAppProjectSecond_08012024.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet]
+        [Route("GetStateById")]
+        public async Task<IActionResult> GetStateById(Guid id)
+        {
+            try
+            {
+                var res = await _stateMasterService.GetNewStateById(id);
+                var result = _mapp.Map<List<StateMasterDto>>(res);
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+
         [HttpPost]
         [Route("AddedNewStateMasterData")]
         public async Task<IActionResult> AddedNewStateMasterData(StateMasterDto stateMasterDto)

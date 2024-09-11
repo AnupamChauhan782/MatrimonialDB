@@ -51,7 +51,7 @@ namespace MatriMonialAppProjectSecond_08012024.Controllers
         public async Task<IActionResult> GetById(Guid id)
         {
             var res=await _gotraService.GetGotraMasterById(id);
-            var result=_mapper.Map<GotraMasterDto>(res);
+            var result=_mapper.Map<List<GotraMasterDto>>(res);
             return Ok(result);
         }
     }

@@ -16,5 +16,9 @@ namespace AllModels.DTO
         public string FileUploadTwo { get; set; }
         public string FileUploadThree { get; set; }
 
+        public Guid ProfileID { get; set; }
+        public NewRegistrationModel? newRegistrationModel { get; set; }
+
+
     }
 }

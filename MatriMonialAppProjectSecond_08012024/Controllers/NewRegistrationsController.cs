@@ -27,13 +27,25 @@ namespace MatriMonialAppProjectSecond_08012024.Controllers
             return Ok(map);
         }
 
+        [HttpGet]
+        [Route("GetAllData")]
+        public async Task<IActionResult> GetAllData()
+        {
+            var res = await _registrationService.GetAllNewREgistration();
+           
+            return Ok(res);
+        }
+
         [HttpPost]
         [Route("AddNewRegisatration")]
         public async Task<IActionResult> AddNewRegisatration(NewRegistrationDTO newRegistrationDTO)
         {
             var res = _mapper.Map<NewRegistrationModel>(newRegistrationDTO);
-            await _registrationService.AddNewRegistrationData(res);
-            return Ok("Added Successfully");
+
+            var result=   await _registrationService.AddNewRegistrationData(res);
+            var mapp = _mapper.Map<NewRegistrationDTO>(result);
+         
+            return Ok(mapp);
         }
 
         [HttpDelete]
