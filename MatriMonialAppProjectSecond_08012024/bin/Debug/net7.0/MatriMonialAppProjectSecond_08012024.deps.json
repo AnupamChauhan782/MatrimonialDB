@@ -752,7 +752,10 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.15"
         },
         "runtime": {
-          "AllModels.dll": {}
+          "AllModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BusinessLayer_08012024/1.0.0": {
@@ -762,7 +765,10 @@
           "Microsoft.AspNetCore.Http.Features": "5.0.17"
         },
         "runtime": {
-          "BusinessLayer_08012024.dll": {}
+          "BusinessLayer_08012024.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DataAccessLayer_08012024/1.0.0": {
@@ -772,12 +778,18 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15"
         },
         "runtime": {
-          "DataAccessLayer_08012024.dll": {}
+          "DataAccessLayer_08012024.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "MatriMonialGlobalExceptionHandling_03022024/1.0.0": {
         "runtime": {
-          "MatriMonialGlobalExceptionHandling_03022024.dll": {}
+          "MatriMonialGlobalExceptionHandling_03022024.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

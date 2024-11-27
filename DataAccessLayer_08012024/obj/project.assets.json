@@ -3137,7 +3137,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amrit\\.nuget\\packages\\": {}
+    "C:\\Users\\chauh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3145,11 +3145,11 @@
       "projectUniqueName": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj",
       "projectName": "DataAccessLayer_08012024",
       "projectPath": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj",
-      "packagesPath": "C:\\Users\\Amrit\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\chauh\\.nuget\\packages\\",
       "outputPath": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Amrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chauh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3157,6 +3157,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3173,6 +3174,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3205,12 +3211,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

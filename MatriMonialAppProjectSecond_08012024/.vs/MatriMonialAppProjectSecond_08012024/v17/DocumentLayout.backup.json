@@ -1,0 +1,1319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\helper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253E22A-2280-4624-98F0-2E8A99DF0893}|..\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\dataaccesslayer_08012024\\migrations\\20241026081021_matri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253E22A-2280-4624-98F0-2E8A99DF0893}|..\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\dataaccesslayer_08012024\\dataaccesslayer_08012024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\businesslayer_08012024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\allmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\matrimonialappprojectsecond_08012024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:matrimonialappprojectsecond_08012024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\matrimonialappprojectsecond_08012024.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:matrimonialappprojectsecond_08012024.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\newregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\newregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\newregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\inewregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\enquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\usermodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\countrymasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\countrymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\exceptionhandling\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:exceptionhandling\\globalerrorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\newregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\icountrymasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\statesmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\statesmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\newregistrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\statemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\gotrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\gotrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\isubcastemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253E22A-2280-4624-98F0-2E8A99DF0893}|..\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\dataaccesslayer_08012024\\dbconnection\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\districtmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\statemasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\districtmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\idistrictmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\qualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\igotramasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\subcastemasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\gotramasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\professionmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\professionmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\enquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220133142_ki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220130357_rew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220094152_Datf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\subcastemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220092408_Dat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220092138_Datas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\educationmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220084427_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\qualificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\qualificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220064504_regl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\gotramasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\ieducationmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\districtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\istatemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\gotramaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\subcastescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\subcastescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\controllers\\enquriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:controllers\\enquriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240210131556_regisrtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\ienquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240210041325_regisrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\qualificationmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\educationmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\iprofessionmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\subcastemasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\professionmastersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\services\\educationmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\model\\errorres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialappprojectsecond_08012024\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527DC64D-8DFC-488D-AC1B-2D0D221015EE}|MatriMonialAppProjectSecond_08012024.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACF0139-4E11-4DDF-B2C4-6D56AE58101F}|..\\MatriMonialGlobalExceptionHandling_03022024\\MatriMonialGlobalExceptionHandling_03022024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\matrimonialglobalexceptionhandling_03022024\\utility\\exceptions\\unauthorizedaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\districtmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CB66D7-3CAA-4523-BB46-EF3120A71C59}|..\\AllModels\\AllModels.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\allmodels\\dto\\qualificationmasterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B141F20-CEA0-48D2-90D3-93D830B62C87}|..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj|d:\\projectfolder_25122023\\matrimonialappseconddb_08012023\\businesslayer_08012024\\iservices\\iqualificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240108100451_matrimonialdta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241026081021_matri.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20241026081021_matri.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20241026081021_matri.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20241026081021_matri.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20241026081021_matri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:10:21.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-08T07:32:24.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:34:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLayer_08012024.csproj",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\BusinessLayer_08012024.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T08:00:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccessLayer_08012024.csproj",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\DataAccessLayer_08012024.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-08T07:05:50.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IFileService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IFileService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IFileService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T04:45:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\helper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\helper\\UserProfile.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\helper\\UserProfile.cs",
+              "RelativeToolTip": "..\\AllModels\\helper\\UserProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:12:50.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatriMonialAppProjectSecond_08012024",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\MatriMonialAppProjectSecond_08012024.csproj",
+              "RelativeDocumentMoniker": "MatriMonialAppProjectSecond_08012024.csproj",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\MatriMonialAppProjectSecond_08012024.csproj",
+              "RelativeToolTip": "MatriMonialAppProjectSecond_08012024.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T07:49:26.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INewRegistrationService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\INewRegistrationService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\INewRegistrationService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\INewRegistrationService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\INewRegistrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T07:01:55.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewRegistrationService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\NewRegistrationService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\NewRegistrationService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\NewRegistrationService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\NewRegistrationService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T07:03:14.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllModels.csproj",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\AllModels.csproj",
+              "RelativeDocumentMoniker": "..\\AllModels\\AllModels.csproj",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\AllModels.csproj",
+              "RelativeToolTip": "..\\AllModels\\AllModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-08T07:07:28.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatriMonialAppProjectSecond_08012024.csproj",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\MatriMonialAppProjectSecond_08012024.csproj",
+              "RelativeDocumentMoniker": "MatriMonialAppProjectSecond_08012024.csproj",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\MatriMonialAppProjectSecond_08012024.csproj",
+              "RelativeToolTip": "MatriMonialAppProjectSecond_08012024.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-04T05:51:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnquiryService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\EnquiryService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\EnquiryService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\EnquiryService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\EnquiryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T06:08:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\FileService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\FileService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\FileService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T04:46:05.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewRegistrationsController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\NewRegistrationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewRegistrationsController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\NewRegistrationsController.cs",
+              "RelativeToolTip": "Controllers\\NewRegistrationsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T07:22:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T21:01:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserModelDTO.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\UserModelDTO.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\UserModelDTO.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\UserModelDTO.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\UserModelDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T11:30:17.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T02:42:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CountryMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\CountryMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\CountryMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\CountryMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\CountryMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:10:22.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StateMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\StateMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\StateMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\StateMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\StateMaster.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:11:17.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\UserModel.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\UserModel.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T11:29:47.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ExceptionHandling\\GlobalErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAvwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T08:44:58.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\UserService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\UserService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T11:35:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CountryMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\CountryMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\CountryMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\CountryMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\CountryMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:09:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IUserService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T11:35:52.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:48:47.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewRegistrationDTO.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\NewRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\NewRegistrationDTO.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\NewRegistrationDTO.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\NewRegistrationDTO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAD4vzAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T05:16:51.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\CountryService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\CountryService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\CountryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:41:32.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICountryMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\ICountryMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\ICountryMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\ICountryMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\ICountryMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:40:40.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StatesMasController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\StatesMasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatesMasController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\StatesMasController.cs",
+              "RelativeToolTip": "Controllers\\StatesMasController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T08:43:05.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NewRegistrationModel.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\NewRegistrationModel.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\NewRegistrationModel.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\NewRegistrationModel.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\NewRegistrationModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAABYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T05:16:05.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StateMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\StateMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\StateMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\StateMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\StateMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:41:54.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GotrasController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\GotrasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GotrasController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\GotrasController.cs",
+              "RelativeToolTip": "Controllers\\GotrasController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:53:44.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISubCasteMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\ISubCasteMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\ISubCasteMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\ISubCasteMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\ISubCasteMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:31:37.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\DbConnection\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\DbConnection\\Connection.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\DbConnection\\Connection.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\DbConnection\\Connection.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADgvysAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:08:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileUploadMODEL.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\FileUploadMODEL.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\FileUploadMODEL.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\FileUploadMODEL.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\FileUploadMODEL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T05:26:28.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DistrictMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\DistrictMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\DistrictMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\DistrictMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\DistrictMaster.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:04:14.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StateMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\StateMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\StateMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\StateMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\StateMasterDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:11:37.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DistrictMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\DistrictMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\DistrictMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\DistrictMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\DistrictMasterService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:13:42.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IDistrictMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IDistrictMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IDistrictMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IDistrictMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IDistrictMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:10:58.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QualificationService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\QualificationService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\QualificationService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\QualificationService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\QualificationService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T06:20:50.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IGotraMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IGotraMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IGotraMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IGotraMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IGotraMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:31:10.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SubCasteMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\SubCasteMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\SubCasteMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\SubCasteMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\SubCasteMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:17:45.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GotraMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\GotraMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\GotraMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\GotraMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\GotraMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:16:49.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\ApplicationUser.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T03:19:28.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProfessionMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\ProfessionMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\ProfessionMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\ProfessionMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\ProfessionMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:06:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FileUploadDTO.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\FileUploadDTO.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\FileUploadDTO.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\FileUploadDTO.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\FileUploadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T05:25:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProfessionMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\ProfessionMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\ProfessionMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\ProfessionMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\ProfessionMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:06:42.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EnquiryDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\EnquiryDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\EnquiryDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\EnquiryDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\EnquiryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T06:00:49.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240220133142_ki.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220133142_ki.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220133142_ki.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220133142_ki.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220133142_ki.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:31:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20240220130357_rew.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220130357_rew.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220130357_rew.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220130357_rew.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220130357_rew.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T13:03:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240220094152_Datf.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220094152_Datf.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220094152_Datf.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220094152_Datf.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220094152_Datf.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:41:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SubCasteMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\SubCasteMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\SubCasteMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\SubCasteMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\SubCasteMaster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:18:14.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240220092408_Dat.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220092408_Dat.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220092408_Dat.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220092408_Dat.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220092408_Dat.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:24:09.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240220092138_Datas.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220092138_Datas.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220092138_Datas.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220092138_Datas.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220092138_Datas.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:21:38.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EducationMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\EducationMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\EducationMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\EducationMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\EducationMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:12:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240220084427_Data.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220084427_Data.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220084427_Data.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220084427_Data.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220084427_Data.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T08:44:27.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QualificationController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\QualificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QualificationController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\QualificationController.cs",
+              "RelativeToolTip": "Controllers\\QualificationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T06:40:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240220064504_regl.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220064504_regl.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240220064504_regl.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240220064504_regl.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240220064504_regl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:45:04.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GotraMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\GotraMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\GotraMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\GotraMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\GotraMasterService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAvwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:32:25.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IEducationMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IEducationMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IEducationMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IEducationMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IEducationMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:18:41.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DistrictsController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\DistrictsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DistrictsController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\DistrictsController.cs",
+              "RelativeToolTip": "Controllers\\DistrictsController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwE8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:23:33.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IStateMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IStateMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IStateMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IStateMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IStateMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T07:41:09.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GotraMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\GotraMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\GotraMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\GotraMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\GotraMaster.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:16:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EducationController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "Controllers\\EducationController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:31:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProfessionController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\ProfessionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfessionController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\ProfessionController.cs",
+              "RelativeToolTip": "Controllers\\ProfessionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:25:26.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T06:17:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SubCastesController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\SubCastesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubCastesController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\SubCastesController.cs",
+              "RelativeToolTip": "Controllers\\SubCastesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:40:46.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "EnquriesController.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\EnquriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnquriesController.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\Controllers\\EnquriesController.cs",
+              "RelativeToolTip": "Controllers\\EnquriesController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T06:18:24.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240210131556_regisrtra.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240210131556_regisrtra.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240210131556_regisrtra.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240210131556_regisrtra.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240210131556_regisrtra.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T13:15:57.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IEnquiryService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IEnquiryService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IEnquiryService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IEnquiryService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IEnquiryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T06:08:00.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240210041325_regisrt.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240210041325_regisrt.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240210041325_regisrt.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240210041325_regisrt.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240210041325_regisrt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T04:13:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "QualificationMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\QualificationMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\QualificationMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\QualificationMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\QualificationMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T06:12:58.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Enquiry.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\Enquiry.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\Enquiry.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\Enquiry.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\Enquiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T06:00:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EducationMaster.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\EducationMaster.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\EducationMaster.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\EducationMaster.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\EducationMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:12:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IProfessionMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IProfessionMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IProfessionMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IProfessionMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IProfessionMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:11:27.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SubCasteMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\SubCasteMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\SubCasteMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\SubCasteMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\SubCasteMasterService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:32:00.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ProfessionMasterSevice.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\ProfessionMasterSevice.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\ProfessionMasterSevice.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\ProfessionMasterSevice.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\ProfessionMasterSevice.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T01:11:54.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EducationMasterService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\EducationMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\Services\\EducationMasterService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\Services\\EducationMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\Services\\EducationMasterService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwDoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:19:21.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ErrorRes.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\ErrorRes.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\Model\\ErrorRes.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\Model\\ErrorRes.cs",
+              "RelativeToolTip": "..\\AllModels\\Model\\ErrorRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T18:05:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialAppProjectSecond_08012024\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T09:23:05.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "UnauthorizedAccessException.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialGlobalExceptionHandling_03022024\\Utility\\Exceptions\\UnauthorizedAccessException.cs",
+              "RelativeDocumentMoniker": "..\\MatriMonialGlobalExceptionHandling_03022024\\Utility\\Exceptions\\UnauthorizedAccessException.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\MatriMonialGlobalExceptionHandling_03022024\\Utility\\Exceptions\\UnauthorizedAccessException.cs",
+              "RelativeToolTip": "..\\MatriMonialGlobalExceptionHandling_03022024\\Utility\\Exceptions\\UnauthorizedAccessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T08:38:18.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DistrictMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\DistrictMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\DistrictMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\DistrictMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\DistrictMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:04:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "QualificationMasterDto.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\QualificationMasterDto.cs",
+              "RelativeDocumentMoniker": "..\\AllModels\\DTO\\QualificationMasterDto.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\AllModels\\DTO\\QualificationMasterDto.cs",
+              "RelativeToolTip": "..\\AllModels\\DTO\\QualificationMasterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T06:11:47.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IQualificationService.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IQualificationService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_08012024\\IServices\\IQualificationService.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\BusinessLayer_08012024\\IServices\\IQualificationService.cs",
+              "RelativeToolTip": "..\\BusinessLayer_08012024\\IServices\\IQualificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T06:20:12.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20240108100451_matrimonialdta.cs",
+              "DocumentMoniker": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240108100451_matrimonialdta.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer_08012024\\Migrations\\20240108100451_matrimonialdta.cs",
+              "ToolTip": "D:\\ProjectFolder_25122023\\MatriMonialAppSeconddb_08012023\\DataAccessLayer_08012024\\Migrations\\20240108100451_matrimonialdta.cs",
+              "RelativeToolTip": "..\\DataAccessLayer_08012024\\Migrations\\20240108100451_matrimonialdta.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T10:04:52.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

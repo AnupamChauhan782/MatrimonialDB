@@ -48,7 +48,7 @@ namespace MatriMonialAppProjectSecond_08012024
 
             builder.Services.AddDbContext<Connection>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DbConnett"));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DbConneted"));
             });
 
             builder.Services.AddCors(opt =>

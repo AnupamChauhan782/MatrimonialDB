@@ -1,0 +1,756 @@
+[
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.CountriesController",
+    "Method": "AddedNewDataOfCountry",
+    "RelativePath": "api/Countries/AddedNewDataOfCountry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryMasterDto",
+        "Type": "AllModels.DTO.CountryMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.CountriesController",
+    "Method": "DeleteDataOfCountryMasterById",
+    "RelativePath": "api/Countries/DeleteDataOfCountryMasterById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.CountriesController",
+    "Method": "GetAllDataOfCountryMaster",
+    "RelativePath": "api/Countries/GetAllDataOfCountryMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.CountriesController",
+    "Method": "UpadateDataOfCountryMaster",
+    "RelativePath": "api/Countries/UpadateDataOfCountryMaster",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryMasterDto",
+        "Type": "AllModels.DTO.CountryMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.DistrictsController",
+    "Method": "AddedNewDataOfDistrictMastder",
+    "RelativePath": "api/Districts/AddedNewDataOfDistrictMastder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "districtMasterDto",
+        "Type": "AllModels.DTO.DistrictMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.DistrictsController",
+    "Method": "DeleteDataById",
+    "RelativePath": "api/Districts/DeleteDataById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.DistrictsController",
+    "Method": "GetAllDistrictMasterData",
+    "RelativePath": "api/Districts/GetAllDistrictMasterData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.DistrictsController",
+    "Method": "GetByIdData",
+    "RelativePath": "api/Districts/GetByIdData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.DistrictsController",
+    "Method": "UpdateDataOfDistrict",
+    "RelativePath": "api/Districts/UpdateDataOfDistrict",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "districtMasterDto",
+        "Type": "AllModels.DTO.DistrictMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EducationController",
+    "Method": "AddedDataOfEducationMaster",
+    "RelativePath": "api/Education/AddedDataOfEducationMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.EducationMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EducationController",
+    "Method": "DeleteDataOfEducationMaster",
+    "RelativePath": "api/Education/DeleteDataOfEducationMaster",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EducationController",
+    "Method": "GetByIdOfEducationMasterData",
+    "RelativePath": "api/Education/GetByIdOfEducationMasterData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EducationController",
+    "Method": "GetEducationMasterData",
+    "RelativePath": "api/Education/GetEducationMasterData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EnquriesController",
+    "Method": "AddedNewData",
+    "RelativePath": "api/Enquries/AddedNewData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.EnquiryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EnquriesController",
+    "Method": "DeleteDataById",
+    "RelativePath": "api/Enquries/DeleteDataById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EnquriesController",
+    "Method": "GetDataOfEnquiry",
+    "RelativePath": "api/Enquries/GetDataOfEnquiry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.EnquriesController",
+    "Method": "UpdateDataOfEnquiry",
+    "RelativePath": "api/Enquries/UpdateDataOfEnquiry",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.EnquiryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.GotrasController",
+    "Method": "AddedNewDataOfGotraMaster",
+    "RelativePath": "api/Gotras/AddedNewDataOfGotraMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gotraMasterDto",
+        "Type": "AllModels.DTO.GotraMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.GotrasController",
+    "Method": "DeleteDataById",
+    "RelativePath": "api/Gotras/DeleteDataById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.GotrasController",
+    "Method": "GetById",
+    "RelativePath": "api/Gotras/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.GotrasController",
+    "Method": "GetGotraMasterData",
+    "RelativePath": "api/Gotras/GetGotraMasterData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.GotrasController",
+    "Method": "UpdateDataOfGotraMaster",
+    "RelativePath": "api/Gotras/UpdateDataOfGotraMaster",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.GotraMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.ImagesController",
+    "Method": "AddImage",
+    "RelativePath": "api/Images/AddImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile[]",
+        "IsRequired": false
+      },
+      {
+        "Name": "proId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.NewRegistrationsController",
+    "Method": "AddNewRegisatration",
+    "RelativePath": "api/NewRegistrations/AddNewRegisatration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newRegistrationDTO",
+        "Type": "AllModels.DTO.NewRegistrationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.NewRegistrationsController",
+    "Method": "DeleteDataofNewRegistration",
+    "RelativePath": "api/NewRegistrations/DeleteDataofNewRegistration",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.NewRegistrationsController",
+    "Method": "GetAllData",
+    "RelativePath": "api/NewRegistrations/GetAllData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.NewRegistrationsController",
+    "Method": "GetAllDataOfNewRegistration",
+    "RelativePath": "api/NewRegistrations/GetAllDataOfNewRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.NewRegistrationsController",
+    "Method": "UpdateDataOfNewRegistration",
+    "RelativePath": "api/NewRegistrations/UpdateDataOfNewRegistration",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.NewRegistrationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.ProfessionController",
+    "Method": "AddedNewProfession",
+    "RelativePath": "api/Profession/AddedNewProfession",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "professionMasterDto",
+        "Type": "AllModels.DTO.ProfessionMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.ProfessionController",
+    "Method": "DeleteProfessionById",
+    "RelativePath": "api/Profession/DeleteProfessionById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.ProfessionController",
+    "Method": "GetByIdToProfessionMaster",
+    "RelativePath": "api/Profession/GetByIdToProfessionMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.ProfessionController",
+    "Method": "GetProfession",
+    "RelativePath": "api/Profession/GetProfession",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.ProfessionController",
+    "Method": "UpdateDataOfProfession",
+    "RelativePath": "api/Profession/UpdateDataOfProfession",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "professionMasterDto",
+        "Type": "AllModels.DTO.ProfessionMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.QualificationController",
+    "Method": "AddedQualificationData",
+    "RelativePath": "api/Qualification/AddedQualificationData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.QualificationMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.QualificationController",
+    "Method": "DeleteQualificationData",
+    "RelativePath": "api/Qualification/DeleteQualificationData",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.QualificationController",
+    "Method": "GetQualificationData",
+    "RelativePath": "api/Qualification/GetQualificationData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.QualificationController",
+    "Method": "UpdatedQualificationData",
+    "RelativePath": "api/Qualification/UpdatedQualificationData",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.QualificationMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.StatesMasController",
+    "Method": "AddedNewStateMasterData",
+    "RelativePath": "api/StatesMas/AddedNewStateMasterData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stateMasterDto",
+        "Type": "AllModels.DTO.StateMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.StatesMasController",
+    "Method": "DeleteDataOfStateMaster",
+    "RelativePath": "api/StatesMas/DeleteDataOfStateMaster",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.StatesMasController",
+    "Method": "GetAllDataOfStateMaster",
+    "RelativePath": "api/StatesMas/GetAllDataOfStateMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.StatesMasController",
+    "Method": "GetStateById",
+    "RelativePath": "api/StatesMas/GetStateById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.StatesMasController",
+    "Method": "UpdateDataOfStateMaster",
+    "RelativePath": "api/StatesMas/UpdateDataOfStateMaster",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stateMasterDto",
+        "Type": "AllModels.DTO.StateMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.SubCastesController",
+    "Method": "AddedNewCatseMasterData",
+    "RelativePath": "api/SubCastes/AddedNewCatseMasterData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "casteMasterDto",
+        "Type": "AllModels.DTO.SubCasteMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.SubCastesController",
+    "Method": "DeleteDataById",
+    "RelativePath": "api/SubCastes/DeleteDataById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.SubCastesController",
+    "Method": "GetAllDataOfCasteMaster",
+    "RelativePath": "api/SubCastes/GetAllDataOfCasteMaster",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.SubCastesController",
+    "Method": "UpdateData",
+    "RelativePath": "api/SubCastes/UpdateData",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "casteMasterDto",
+        "Type": "AllModels.DTO.SubCasteMasterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.UserController",
+    "Method": "AddLoginData",
+    "RelativePath": "api/User/AddLoginData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelDTO",
+        "Type": "AllModels.DTO.LoginModelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.UserController",
+    "Method": "AddUserData",
+    "RelativePath": "api/User/AddUserData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AllModels.DTO.UserModelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.UserController",
+    "Method": "DeleteData",
+    "RelativePath": "api/User/DeleteData",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MatriMonialAppProjectSecond_08012024.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MatriMonialAppProjectSecond_08012024.WeatherForecast, MatriMonialAppProjectSecond_08012024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

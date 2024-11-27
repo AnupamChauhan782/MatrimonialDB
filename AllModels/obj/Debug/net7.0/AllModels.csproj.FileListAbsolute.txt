@@ -10,3 +10,4 @@ D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Debug\ne
 D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Debug\net7.0\refint\AllModels.dll
 D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Debug\net7.0\AllModels.pdb
 D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Debug\net7.0\ref\AllModels.dll
+D:\ProjectFolder_25122023\MatriMonialAppSeconddb_08012023\AllModels\obj\Debug\net7.0\AllModels.sourcelink.json
